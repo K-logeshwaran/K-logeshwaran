@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [ToyDB](https://github.com/K-logeshwaran/toyBB)
 
-- 👨‍💻 All of my projects are available at [https://k-logeshwaran.github.io/yourdevlogesh.github.io/](https://k-logeshwaran.github.io/yourdevlogesh.github.io/)
+- 👨‍💻 All of my projects are available at [[https://k-logeshwaran.github.io/yourdevlogesh.github.io/](https://k-logeshwaran.github.io/yourdevlogesh.github.io/)](https://k-logeshwaran.github.io/logeshwarank.github.io/)
 
 - 📝 I regularly write articles on [https://main--candid-nasturtium-2bb19a.netlify.app/](https://main--candid-nasturtium-2bb19a.netlify.app/)
 
